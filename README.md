@@ -49,6 +49,11 @@
 ```shell
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/CCChieh/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
 ```
+可使用:
+```shell
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/bigfangfang/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
+```
+
 
 ![image-20200615210944753](img/README/image-20200615210944753.png)
 
